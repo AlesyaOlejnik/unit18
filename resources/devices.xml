@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<devices>
+    <device id="1">
+        <name>graphics card</name>
+        <origin>Vietnam</origin>
+        <price>1000.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>55 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="2">
+        <name>motherboard</name>
+        <origin>Germany</origin>
+        <price>3000.00</price>
+        <type>
+            <peripheral>false</peripheral>
+            <energy>50 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="3">
+        <name>CPU</name>
+        <origin>Russia</origin>
+        <price>1000.00</price>
+        <type>
+            <peripheral>false</peripheral>
+            <energy>60 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="4">
+
+        <name>controller</name>
+        <origin>Belarus</origin>
+        <price>100.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>55 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="5">
+        <name>HDD</name>
+        <origin>China</origin>
+        <price>500.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="6">
+        <name>mouse</name>
+        <origin>China</origin>
+        <price>10.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>10 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="7">
+        <name>optical disk drive</name>
+        <origin>France</origin>
+        <price>1000.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="8">
+        <name>webcam</name>
+        <origin>China</origin>
+        <price>200.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="9">
+    <name>teleprinter</name>
+    <origin>Vietnam</origin>
+    <price>300.00</price>
+    <type>
+        <peripheral>true</peripheral>
+        <energy>150 ватт</energy>
+        <cooler>true</cooler>
+    </type>
+    <critical>true</critical>
+    </device>
+    <device id="10">
+        <name>speaker</name>
+        <origin>China</origin>
+        <price>20.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="11">
+        <name>keyboard</name>
+        <origin>France</origin>
+        <price>30.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+    <device id="12">
+        <name>flat-panel Display</name>
+        <origin>Vietnam</origin>
+        <price>100.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="13">
+        <name>ip camera</name>
+        <origin>China</origin>
+        <price>300.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="14">
+        <name>headphones</name>
+        <origin>China</origin>
+        <price>200.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+    <device id="15">
+        <name>SSD</name>
+        <origin>France</origin>
+        <price>1000.00</price>
+        <type>
+            <peripheral>true</peripheral>
+            <energy>150 ватт</energy>
+            <cooler>true</cooler>
+        </type>
+        <critical>true</critical>
+    </device>
+
+</devices>
