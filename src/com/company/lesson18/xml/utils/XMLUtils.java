@@ -1,6 +1,6 @@
-package com.company.xml.utils;
+package com.company.lesson18.xml.utils;
 
-import com.company.entities.Devices;
+import com.company.lesson18.entities.Devices;
 import com.sun.tools.xjc.BadCommandLineException;
 import com.sun.tools.xjc.Driver;
 import com.sun.tools.xjc.XJCListener;

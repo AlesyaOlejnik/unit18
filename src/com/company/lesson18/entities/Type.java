@@ -1,4 +1,4 @@
-package com.company.entities;
+package com.company.lesson18.entities;
 
 import javax.xml.bind.annotation.*;
 

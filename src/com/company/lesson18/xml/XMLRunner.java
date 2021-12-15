@@ -1,8 +1,7 @@
-package com.company.xml;
+package com.company.lesson18.xml;
 
-import com.company.entities.Devices;
-import com.company.xml.parser.StAXRunner;
-import com.company.xml.utils.XMLUtils;
+import com.company.lesson18.entities.Devices;
+import com.company.lesson18.xml.utils.XMLUtils;
 
 public class XMLRunner {
     public static void main(String[] args) {

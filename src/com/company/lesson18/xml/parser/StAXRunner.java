@@ -1,4 +1,4 @@
-package com.company.xml.parser;
+package com.company.lesson18.xml.parser;
 
 import javax.xml.stream.XMLInputFactory;
 import javax.xml.stream.XMLStreamConstants;
